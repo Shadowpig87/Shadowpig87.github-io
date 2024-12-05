@@ -1,0 +1,25 @@
+body{background-color: brown;}
+.textcenter{text-align: center;}
+#theorem{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid gold;
+    margin: 10px 780px 10px 10px;
+    border-radius: 5px 5px 5px 5px;
+
+}
+.button{
+    background-color: gold;
+    transition: background-color 0.25s;
+    cursor: pointer;
+    padding: 5px 5px;
+    color: brown;
+    font-weight: 100;
+    font-family: monospace;
+    font: bold;
+    border-radius: 5px;
+}
+
+.button:hover
+{background-color: rgb(158, 137, 17);}
+
+

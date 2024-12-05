@@ -1,0 +1,33 @@
+body{font-family: cursive;
+    font-size: 2em;
+background-color: brown; color:yellow;}
+p{font-family:'Times New Roman', Times, serif ;}
+    .Ligma{color:green; background-color: black;
+    border: solid 5px gold;
+border-radius:5px;
+text-align: center;}
+   .sentence{font-size: 30px;}
+   .picture{border-radius: 10px;
+border: solid 2px black ;
+height: 250px; 
+width: 500px;}
+#p2{background-color: black;
+background-size: 50px;
+border: solid 2px black;
+margin-right:50px;
+margin-left: 50px;
+text-align: center;}
+.quizbut{height: 100px; width: 40px;}
+.text-center{text-align: center;}
+.quiz{text-align: center;}
+.button{cursor: pointer;
+background-color: white;
+transition: background-color 0.25s;
+font-family: monospace;
+border-radius: 5px;
+padding: 5px 5px;
+}
+.button:hover{
+    background-color: gray;
+}
+
